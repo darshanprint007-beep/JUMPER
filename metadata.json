@@ -1,0 +1,6 @@
+{
+  "name": "The High Jumper",
+  "description": "A high-speed 3D anime endless runner and jumping game with responsive jump, slide, and coin-collecting mechanics for desktop and mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
